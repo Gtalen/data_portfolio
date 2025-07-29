@@ -10,7 +10,7 @@ Welcome to my portfolio showcasing a range of projects that demonstrate my exper
 **Languages:** Python, Bash, SQL  
 **Frameworks & Libraries:** Flask, Pandas, Scikit-learn, Seaborn, Matplotlib  
 **Databases:** MySQL, Neo4j  
-**Tools & Platforms:** GitHub Actions, Jupyter Notebooks, Linux CLI, Bootstrap  
+**Tools & Platforms:** GitHub Actions, Jupyter Notebooks, Linux CLI 
 **Techniques:** RESTful API development, Machine Learning, Data Visualization, Workflow Automation, Data Preprocessing, CRUD Operations  
 
 
@@ -39,14 +39,14 @@ Created scheduled automation fetching  weather data daily using Bash scripts and
 
 ### Stroke Prediction with Wearable Data (2024)  
 **Technologies:** Python, Pandas, Scikit-learn  
-Applied machine learning algorithms to physiological data from wearables to predict stroke risk. Performed data preprocessing, model training using logistic regression and decision trees, and evaluated models with confusion matrices and ROC curves.  
+Applied machine learning algorithms to physiological data from wearables to predict stroke risk. Performed data preprocessing, model training using logistic regression and decision trees.  
 🔗 [GitHub Repository](https://github.com/Gtalen/stroke_prediction_PFDA.git)  
 
 ---
 
 ### Palmer Penguins Dataset Analysis (2024)  
 **Technologies:** Python, Pandas, Seaborn, Matplotlib  
-Performed exploratory data analysis and clustering (k-means) on the Palmer penguins dataset. Visualized data trends and applied dimensionality reduction (PCA) to uncover insights.  
+Performed exploratory data analysis and clustering (k-means) on the Palmer penguins dataset. Visualized data trends to uncover insights.  
 🔗 [GitHub Repository](https://github.com/Gtalen/palmer_penguins_eda_data_analytics.git)  
 
 ---
