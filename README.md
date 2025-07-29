@@ -19,7 +19,7 @@ Welcome to my portfolio showcasing a range of projects that demonstrate my exper
 ### Investment Portfolio Management System (IPM) (2025)  
 **Technologies:** Python, Flask, MySQL, Bootstrap  
 Developed as part of the Higher Diploma in Computing (Data Analytics) at ATU Galway. Designed and normalized a MySQL database, implemented RESTful APIs for user, stock, and transaction management, and built AJAX-powered CRUD interfaces using a modular DAO structure.  
-🔗 [Live Demo](https://gtalen.pythonanywhere.com) | [GitHub Repository](https://github.com/Gtalen/IPM_web_application_WSAA-coursework.git)  
+🔗 [Live Demo](https://gtalen.pythonanywhere.com/user) | [GitHub Repository](https://github.com/Gtalen/IPM_web_application_WSAA-coursework.git)  
 
 ---
 
