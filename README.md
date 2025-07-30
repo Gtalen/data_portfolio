@@ -23,6 +23,13 @@ Developed as part of the Higher Diploma in Computing (Data Analytics) at ATU Gal
 
 ---
 
+### Stroke Prediction with Wearable Data (2024)  
+**Technologies:** Python, Pandas, Scikit-learn  
+Applied machine learning algorithms to physiological data from wearables to predict stroke risk. Performed data preprocessing, model training using logistic regression and decision trees.  
+🔗 [GitHub Repository](https://github.com/Gtalen/stroke_prediction_PFDA.git)  
+
+---
+
 ### Actors and Directors Menu App with PyMySQL (2025)  
 **Technologies:** Python, PyMySQL, Neo4j  
 Developed a terminal-based application for managing actors, directors, and studios. Integrated MySQL (relational) and Neo4j (graph) databases, implementing CRUD operations and managing entity relationships with strong data integrity and OOP principles.  
@@ -34,13 +41,6 @@ Developed a terminal-based application for managing actors, directors, and studi
 **Technologies:** Bash, GitHub Actions, Python, Pandas  
 Created scheduled automation fetching  weather data daily using Bash scripts and GitHub Actions. Automated workflow with cron syntax, analyzed data in Jupyter Notebooks with Python and Pandas, demonstrating Linux CLI proficiency and reproducible scripting.  
 🔗 [GitHub Repository](https://github.com/Gtalen/weather_data_automation_computer_infrastructure.git)  
-
----
-
-### Stroke Prediction with Wearable Data (2024)  
-**Technologies:** Python, Pandas, Scikit-learn  
-Applied machine learning algorithms to physiological data from wearables to predict stroke risk. Performed data preprocessing, model training using logistic regression and decision trees.  
-🔗 [GitHub Repository](https://github.com/Gtalen/stroke_prediction_PFDA.git)  
 
 ---
 
